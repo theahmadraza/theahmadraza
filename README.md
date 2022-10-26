@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Rizwan Ali</h1>
-<h3 align="center">A passionate Fullstack ROR developer from Pakistan</h3>
-<h3 align="center">A passionate Fullstack web developer from Pakistan.</h3>
+<h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
+<h3 align="center">A passionate Fullstack MERN Stack developer from Pakistan</h3>
+
+<a href="https://github.com/theahmadraza" target="_blank">
+<img src=
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fwebsite_977597&psig=AOvVaw1CeVLiCkD1pwoD5pD3zHKf&ust=1666845043884000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKixlOaH_foCFQAAAAAdAAAAABAE style="margin-bottom: 5px;" />
+</a>
 
 #### My GitHub Visitors
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=theahmadraza" alt="theahmadraza" /> </p>
