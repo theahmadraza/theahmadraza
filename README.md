@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<h3 align="center">A passionate Fullstack MERN Stack developer from Pakistan</h3>
+<h3 align="center" style="margin-bottom:50px">A passionate Fullstack MERN Stack developer from Pakistan</h3>
 
-<a href="https://github.com/theahmadraza" target="_blank">
-<img src=
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fwebsite_977597&psig=AOvVaw1CeVLiCkD1pwoD5pD3zHKf&ust=1666845043884000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKixlOaH_foCFQAAAAAdAAAAABAE style="margin-bottom: 5px;" />
+<a align="center" href="https://github.com/theahmadraza" target="_blank">
+  <p align="center">
+<img width="15%" height="100%" src="https://mahmadraza.com/wp-content/uploads/2022/08/cropped-200-x-200-150x150.png" /> </p>
 </a>
 
 #### My GitHub Visitors
