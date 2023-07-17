@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<h3 align="center" style="margin-bottom:50px">A passionate Fullstack MERN Stack developer from Pakistan</h3>
+<h3 align="center" style="margin-bottom:50px">A passionate MERN Stack developer from Pakistan</h3>
 
 <a align="center" href="https://github.com/theahmadraza" target="_blank">
   <p align="center">
