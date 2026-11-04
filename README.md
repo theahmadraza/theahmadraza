@@ -1,34 +1,48 @@
-<h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<h3 align="center" style="margin-bottom:50px">A passionate MERN Stack developer from Pakistan</h3>
+# Muhammad Ahmad Raza
 
-<a align="center" href="https://github.com/theahmadraza" target="_blank">
-  <p align="center">
-<img width="15%" height="100%" src="https://mahmadraza.com/wp-content/uploads/2022/08/cropped-200-x-200-150x150.png" /> </p>
-</a>
+**Senior Software Engineer & AI Developer** · Lahore, PK · Remote worldwide
 
-#### My GitHub Visitors
-<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=theahmadraza" alt="theahmadraza" /> </p>
+[Website](https://ahmadraza.tech) · [LinkedIn](https://www.linkedin.com/in/itsmahmadraza) · [Upwork](https://www.upwork.com/freelancers/~01d2d130c67cf34c53) · [X](https://x.com/MahmadViews) · [Resume](https://ahmadraza.tech/Muhammad-Ahmad-Raza-Resume.pdf)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theahmadraza" alt="theahmadraza" /></a> </p>
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=devrizwanali&theme=flat&margin-w=5&title=Repositories,Commits,PullRequest,MultiLanguage,Issue" alt="devrizwanali" /></a> </p>
+I build scalable cloud, web and mobile products, and evaluate the AI models that write code. I work across the stack: React and React Native front ends, Node, NestJS and Python back ends, AWS infrastructure, and LLM and agent features where a product needs them.
 
-- 👨🏽‍💻 I’m currently working on something cool 😉;
+**Now:** Senior AI Developer at Stixor Technologies, and maintainer of [ProSEO](https://github.com/theahmadraza/ProSEO), an open-source SEO plugin for Claude Code.
 
-- 🌱 I’m currently learning **Backend & DevOps**
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me **csmirza11@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/mahmad_says" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/theahmadraza" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="norisseferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
-<div style="display: flex; flex-direction: column">
-<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theahmadraza&show_icons=true&locale=en&layout=compact" alt="theahmadraza" /></p></div>
-<div><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=theahmadraza&show_icons=true&locale=en" alt="theahmadraza" /></p></div>
-<div><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=theahmadraza&" alt="theahmadraza" /></p></div>
-</div>
+## Selected work
+
+| Project | What it is |
+| --- | --- |
+| [ProSEO](https://github.com/theahmadraza/ProSEO) | Open-source Claude Code plugin with 31 SEO skills and 18 agents: technical audits, schema, content quality and AI-search visibility. |
+| CattleXpert | Multi-tenant platform for web and mobile, taken from concept to nearly 10,000 users in a few months. |
+| [mHealthCoach](https://ahmadraza.tech/case-studies/mhealthcoach) | HIPAA-compliant patient-support platform across web, mobile and an AI contact center, serving roughly 100,000 patients a month. |
+| [WhatNextAI](https://ahmadraza.tech/case-studies/whatnextai) | AI SaaS dashboard with OpenAI integration, chatbot analytics, conversation management and automation workflows. |
+| [GPT Glow](https://ahmadraza.tech/case-studies/gpt-glow) | Chat-with-your-PDF assistant on OpenAI and Pinecone, with Stripe subscriptions. |
+
+More case studies at [ahmadraza.tech](https://ahmadraza.tech/#work).
+
+## Experience
+
+- **Senior AI Developer**, Stixor Technologies · May 2025 – present  
+  Built the VetXpert app with a Claude API chatbot, and a sync service that cut cross-database discrepancies by 87%.
+- **AI Engineer, LLM Training & Evaluation**, Turing · Oct 2024 – May 2025  
+  Trained and reviewed model-generated code for Google Code LLM and SWE-bench. Promoted to Reviewer within two months.
+- **Software Engineer**, The Hexaa · May 2023 – Sep 2024  
+  Shipped ClassTap with payments and OAuth. Improved API performance by 40% and load times by 35%.
+- **Associate Software Engineer**, One Machine Software · Oct 2022 – May 2023  
+  Built messaging and scheduling features for mHealthCoach.
+
+## Stack
+
+- **Frontend:** React, Next.js, Vue 3, Angular, Redux Toolkit, Tailwind CSS
+- **Mobile:** React Native (iOS, Android)
+- **Backend:** Node.js, Express, NestJS, FastAPI, Django, Flask, REST, GraphQL
+- **AI:** OpenAI API, Claude API, RAG, Pinecone, agents, LLM evaluation (SFT, RLHF)
+- **Cloud & DevOps:** AWS (ECS, Cognito), Docker, Kubernetes, Terraform, GitHub Actions
+- **Data:** PostgreSQL, MongoDB, Redis, Firebase
+- **Languages:** TypeScript, JavaScript, Python, Java, C++
+
+---
+
+**117+ clients · 4.9★ from 87 reviews · 91% job success** on [Upwork](https://www.upwork.com/freelancers/~01d2d130c67cf34c53)
+
+Available for select projects. [Get in touch](https://ahmadraza.tech/#contact).
